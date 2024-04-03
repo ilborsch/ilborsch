@@ -3,13 +3,13 @@
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Blogs-API](https://github.com/ilborsch/Blogs-API)
+- 🔭 I’m currently working on [go-grpc-auth](https://github.com/ilborsch/go-grpc-auth)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ilborsch](https://github.com/ilborsch)
+- 👨‍💻 All of my projects are available at [github.com/ilborsch](https://github.com/ilborsch)
 
-- 💬 Ask me about **FastAPI Framework, Python, C++, Leetcode, Algorithms & Data structures**
+- 💬 Ask me about **Go, Python, C++, FastAPI, Algorithms & Data structures**
 
 - 📫 How to reach me **ilborschh@gmail.com**
 
