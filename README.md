@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Illia Borshch</h1>
-<h3 align="center">A passionate Developer from Ukraine 🇺🇦</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [go-execution-engine](https://github.com/ilborsch/go-execution-engine)
+- 🔭 I’m currently working on [openai-go](https://github.com/ilborsch/openai-go)
 
 - 🌱 I’m currently learning **Go**
 
